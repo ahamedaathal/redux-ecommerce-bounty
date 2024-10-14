@@ -28,12 +28,7 @@ This is a full-stack e-commerce application with a React frontend and a Node.js 
    ```
    Replace `your_jwt_secret_here` with a secure random string.
 
-4. Initialize the database:
-   ```
-   npm run init-db
-   ```
-
-5. Start the backend server:
+4. Start the backend server:
    ```
    npm start
    ```
