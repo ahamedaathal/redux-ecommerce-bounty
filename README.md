@@ -2,6 +2,31 @@
 
 This is a full-stack e-commerce application with a React frontend and a Node.js backend.
 
+## Application Features
+
+Our e-commerce application offers the following key features:
+
+1. User Authentication:
+   - User registration and login
+   - JWT-based authentication for secure access
+
+2. Shopping Cart:
+   - Add products to cart
+   - Adjust quantities in cart
+   - Remove items from cart
+   - View cart summary
+
+3. Checkout Process:
+   - Fake checkout flow
+   - Order summary before purchase
+
+4. Admin Panel:
+   - View and manage user accounts
+
+5. Shopper can purchase products from different sellers
+   
+6. sellers can manages thier products/check order history
+
 ## Environment Setup
 
 ### Prerequisites
