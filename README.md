@@ -49,7 +49,7 @@ The backend server should now be running on `http://localhost:5000`.
 
 3. Start the frontend development server:
    ```
-   npm start
+   npm run dev
    ```
 
 The frontend application should now be running on `http://localhost:5173`.
